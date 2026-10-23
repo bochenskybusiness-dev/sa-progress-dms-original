@@ -13,10 +13,10 @@
 
 ## Источники и лицензии
 
-- Первый экран: [Vitaly Gariev / Unsplash](https://unsplash.com/photos/doctor-consults-with-patient-in-medical-office-iyeUwItlIPk), [лицензия Unsplash](https://unsplash.com/license).
+- Первый экран: композиция, предоставленная пользователем; фон удалён по его запросу. PNG с прозрачным фоном.
 - Медицинская консультация: [Antoni Shkraba / Pexels](https://www.pexels.com/photo/a-patient-having-a-consultation-with-her-doctor-5214997/).
 - [Лицензия Pexels](https://www.pexels.com/license/). Люди на стоковых фото не представлены как реальные сотрудники или клиенты агентства.
 - Geologica: SIL OFL 1.1, лицензия в assets/fonts/OFL-Geologica.txt.
 - Lenis 1.3.27: MIT, лицензия в assets/vendor/lenis/LICENSE.
-- Шапка, подвал, PT Sans, логотипы, значки и компонент HystModal перенесены с основного сайта агентства с сохранением оформления и ссылок.
+- Шапка, подвал, логотипы, значки и компонент HystModal перенесены с основного сайта агентства. По запросу пользователя типографика объединена на Geologica, фон подвала адаптирован к новой палитре; содержание и ссылки сохранены.
 - Сведения об агентстве и логотипы страховщиков: [sa-progress.ru](https://sa-progress.ru/).
